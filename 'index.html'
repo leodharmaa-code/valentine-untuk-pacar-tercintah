@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine untuk Pacar Tercinta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e6;
+            color: #d63384;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+        .heart {
+            font-size: 5em;
+            color: #ff1493;
+        }
+    </style>
+</head>
+<body>
+    <div class="heart">❤️</div>
+    <h1>Happy Valentine, Sayang!</h1>
+    <p>
+        Hari ini aku ingin bilang betapa aku mencintaimu. Kamu adalah cahaya dalam hidupku, 
+        yang membuat setiap hari terasa indah. Terima kasih sudah selalu ada di sisiku. 
+        Aku sayang kamu lebih dari kata-kata bisa ungkapkan. 💕
+    </p>
+    <p>
+        [Tambahkan pesan pribadi Anda di sini, misalnya kenangan spesial atau janji masa depan.]
+    </p>
+    <p>Dari: [Nama Anda]</p>
+</body>
+</html>
