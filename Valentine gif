@@ -1,0 +1,46 @@
+'index.html'
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine untuk Pacar Tercinta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e6;
+            color: #d63384;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+        .heart {
+            font-size: 5em;
+            color: #ff1493;
+        }
+    </style>
+</head>
+<body>
+    <div class="heart">❤️</div>
+    <h1>Happy Valentine, Irenn Cayang!</h1>
+    <p>
+        Hari ini aku maw bilang betapa aku mencintaimu. Kamu adalah orang yang selalu ada buat aku, 
+        yang membuat setiap hari terasa tidak pernah sepi. timaaci sudah selalu ada di hidupakuu. 
+        Aku sayang kamu lebih dari kata-kata bisa ungkapkan. 💕
+    </p>
+    <p>
+        Aku minta maaf ndaa bisa kaya yang kamu inginkan disana,
+        aku sadar juga terlalu jauh disini meskipun kamu aga sedikit kecewa atau seneng,
+        mungkin ini jaa yang bisa aku buat ehehe macii belajar jugak.maapinn akuu yang kadang suka tetiba badmood gituu.
+        cemangatt sekolaa yaa cayangg cintaa cantikkuu cintaakuu duniaakuu ndaabole sedi sedii mwaahh
+    </p>
+    <p>Dari: [leo dharmajayaa]</p>
+</body>
+</html>
